@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-12T13:45:00+09:00",
+  "placeholder": true,
+  "walk": {
+    "summary": "配信準備中です。",
+    "slots": [],
+    "metrics": {},
+    "comment": ""
+  },
+  "events": [],
+  "topics": [],
+  "careMemo": {
+    "title": "配信準備中",
+    "body": "紙面データの自動配信は準備中です。",
+    "links": []
+  }
+}
